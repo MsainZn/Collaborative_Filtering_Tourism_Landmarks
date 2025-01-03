@@ -1,0 +1,201 @@
+User_id,User_city,User_province,User_age
+1,Tabriz,East Azerbaijan,42
+2,Amol,Mazandaran,34
+3,Ahvaz,Khuzestan,45
+4,Karaj,Alborz,28
+5,Shiraz,Fars,37
+6,Semnan,Semnan,54
+7,Kerman,Kerman,57
+8,Ahvaz,Khuzestan,44
+9,Talesh,Guilan,65
+10,Qorveh,Kurdistan,66
+11,Tehran,Tehran,43
+12,Isfahan,Isfahan,53
+13,Gorgan,Golestan,67
+14,Tabriz,East Azerbaijan,32
+15,Tehran,Tehran,57
+16,Tabriz,East Azerbaijan,65
+17,Tabriz,East Azerbaijan,67
+18,Ahvaz,Khuzestan,58
+19,Tabriz,East Azerbaijan,46
+20,Tehran,Tehran,48
+21,Tehran,Tehran,51
+22,Isfahan,Isfahan,27
+23,Ilam,Ilam,31
+24,Ahvaz,Khuzestan,46
+25,Birjand,Khorasan South,50
+26,Karaj,Alborz,41
+27,Karaj,Alborz,46
+28,Zabol,Sistan and Baluchestan,25
+29,Mashhad,Khorasan Razavi,37
+30,Qom,Qom,45
+31,Tehran,Tehran,47
+32,Rafsanjan,Kerman,54
+33,Zabol,Sistan and Baluchestan,28
+34,Karaj,Alborz,60
+35,Shahroud,Semnan,30
+36,Tehran,Tehran,66
+37,Tehran,Tehran,62
+38,Mashhad,Khorasan Razavi,31
+39,Mashhad,Khorasan Razavi,61
+40,Tehran,Tehran,27
+41,Rasht,Guilan,66
+42,Lordegan,Chaharmahal and Bakhtiari,46
+43,Tehran,Tehran,25
+44,Ahvaz,Khuzestan,31
+45,Tehran,Tehran,29
+46,Tehran,Tehran,44
+47,Mashhad,Khorasan Razavi,41
+48,Ahvaz,Khuzestan,57
+49,Tabriz,East Azerbaijan,44
+50,Ahvaz,Khuzestan,34
+51,Bandar Abbas,Hormuzgan,34
+52,Ahvaz,Khuzestan,56
+53,Shiraz,Fars,34
+54,Mashhad,Khorasan Razavi,62
+55,Tabriz,East Azerbaijan,30
+56,Arak,Markazi,39
+57,Tehran,Tehran,55
+58,Gorgan,Golestan,60
+59,Karaj,Alborz,63
+60,Tabriz,East Azerbaijan,27
+61,Tehran,Tehran,30
+62,Isfahan,Isfahan,35
+63,Tabriz,East Azerbaijan,36
+64,Tehran,Tehran,64
+65,Tabriz,East Azerbaijan,41
+66,Tehran,Tehran,65
+67,Karaj,Alborz,39
+68,Tabriz,East Azerbaijan,39
+69,Karaj,Alborz,66
+70,Ahvaz,Khuzestan,32
+71,Mashhad,Khorasan Razavi,53
+72,Ahvaz,Khuzestan,64
+73,Tehran,Tehran,45
+74,Tabriz,East Azerbaijan,33
+75,Tabriz,East Azerbaijan,50
+76,Karaj,Alborz,48
+77,Isfahan,Isfahan,59
+78,Mashhad,Khorasan Razavi,39
+79,Yazd,Yazd,59
+80,Babol,Mazandaran,51
+81,Tehran,Tehran,56
+82,Mashhad,Khorasan Razavi,35
+83,Ahvaz,Khuzestan,40
+84,Isfahan,Isfahan,54
+85,Ahvaz,Khuzestan,41
+86,Shiraz,Fars,38
+87,Tabriz,East Azerbaijan,55
+88,Tabriz,East Azerbaijan,29
+89,Shahr-e Kord,Chaharmahal and Bakhtiari,29
+90,Tabriz,East Azerbaijan,40
+91,Tehran,Tehran,49
+92,Ahvaz,Khuzestan,59
+93,Tehran,Tehran,58
+94,Tehran,Tehran,41
+95,Shahr-e Kord,Chaharmahal and Bakhtiari,66
+96,Shiraz,Fars,64
+97,Tehran,Tehran,60
+98,Tehran,Tehran,59
+99,Isfahan,Isfahan,25
+100,Ahvaz,Khuzestan,50
+101,Bojnurd,North Khorasan,55
+102,Isfahan,Isfahan,29
+103,Mashhad,Khorasan Razavi,52
+104,Ahvaz,Khuzestan,37
+105,Shiraz,Fars,30
+106,Mashhad,Khorasan Razavi,26
+107,Ahvaz,Khuzestan,47
+108,Tabriz,East Azerbaijan,48
+109,Birjand,Khorasan South,64
+110,Isfahan,Isfahan,58
+111,Isfahan,Isfahan,26
+112,Taleghan,Alborz,26
+113,Gorgan,Golestan,30
+114,Qazvin,Qazvin,51
+115,Karaj,Alborz,36
+116,Shiraz,Fars,65
+117,Tabriz,East Azerbaijan,60
+118,Tehran,Tehran,50
+119,Mashhad,Khorasan Razavi,50
+120,Karaj,Alborz,37
+121,Rasht,Guilan,27
+122,Ahvaz,Khuzestan,28
+123,Isfahan,Isfahan,48
+124,Tabriz,East Azerbaijan,37
+125,Bushehr,Bushehr,67
+126,Tehran,Tehran,36
+127,Qazvin,Qazvin,52
+128,Tehran,Tehran,52
+129,Tabriz,East Azerbaijan,38
+130,Ahvaz,Khuzestan,39
+131,Tehran,Tehran,34
+132,Tabriz,East Azerbaijan,63
+133,Guilan,Guilan,60
+134,Mashhad,Khorasan Razavi,42
+135,Tehran,Tehran,53
+136,Tehran,Tehran,40
+137,Shiraz,Fars,60
+138,Ahvaz,Khuzestan,27
+139,Tehran,Tehran,63
+140,Karaj,Alborz,34
+141,Jolfa,East Azerbaijan,31
+142,Ahvaz,Khuzestan,33
+143,Isfahan,Isfahan,34
+144,Isfahan,Isfahan,41
+145,Isfahan,Isfahan,65
+146,Ahvaz,Khuzestan,36
+147,Sari,Mazandaran,52
+148,Sanandaj,Kurdistan,26
+149,Karaj,Alborz,35
+150,Shiraz,Fars,40
+151,Mashhad,Khorasan Razavi,28
+152,Tehran,Tehran,26
+153,Isfahan,Isfahan,36
+154,Yazd,Yazd,57
+155,Shahr-e Kord,Chaharmahal and Bakhtiari,41
+156,Tehran,Tehran,61
+157,Tehran,Tehran,39
+158,Tabriz,East Azerbaijan,35
+159,Ahvaz,Khuzestan,48
+160,Tabriz,East Azerbaijan,45
+161,Kerman,Kerman,45
+162,Tehran,Tehran,46
+163,Tabriz,East Azerbaijan,66
+164,Tus,Khorasan Razavi,33
+165,Mashhad,Khorasan Razavi,64
+166,Tehran,Tehran,28
+167,Tehran,Tehran,37
+168,Mashhad,Khorasan Razavi,29
+169,Karaj,Alborz,53
+170,Tehran,Tehran,31
+171,Ahvaz,Khuzestan,66
+172,Hamedan,Hamedan,50
+173,Tehran,Tehran,67
+174,Tabriz,East Azerbaijan,56
+175,Mashhad,Khorasan Razavi,56
+176,Tehran,Tehran,42
+177,Tehran,Tehran,33
+178,Chabahar,Sistan and Baluchestan,52
+179,Isfahan,Isfahan,61
+180,Karaj,Alborz,30
+181,Tehran,Tehran,54
+182,Anzali,Guilan,41
+183,Rasht,Guilan,39
+184,Tehran,Tehran,32
+185,Amol,Mazandaran,45
+186,Shiraz,Fars,56
+187,Isfahan,Isfahan,66
+188,Mashhad,Khorasan Razavi,55
+189,Mashhad,Khorasan Razavi,63
+190,Birjand,Khorasan South,43
+191,Sari,Mazandaran,67
+192,Tabriz,East Azerbaijan,54
+193,Tehran,Tehran,38
+194,Mashhad,Khorasan Razavi,66
+195,Mashhad,Khorasan Razavi,38
+196,Isfahan,Isfahan,57
+197,Ahvaz,Khuzestan,42
+198,Shiraz,Fars,48
+199,Isfahan,Isfahan,49
+200,Zanjan,Zanjan,52

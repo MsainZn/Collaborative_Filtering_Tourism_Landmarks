@@ -1,0 +1,310 @@
+Place_id,Place_name,Place_category,Place_city,Place_province,Place_price
+1,Meighan Wetland,Natural,Arak,Markazi,0
+2,Four Seasons Bathhouse,Cultural,Arak,Markazi,20000
+3,Arak Bazaar,Cultural,Arak,Markazi,0
+4,Soltan Abad (Shazand) Caravanserai,Historical,Qazvin,Qazvin,30000
+5,Sepahdar School,Cultural,Arak,Markazi,5000
+6,Haj Agha Ali House,Architectural,Rafsanjan,Kerman,20000
+7,Arak Railroad Museum,Cultural,Arak,Markazi,10000
+8,Museum of Contemporary Art (Arak),Cultural,Arak,Markazi,10000
+9,Behesht-e Berin (Mahallat),Natural,Semnan,Semnan,0
+10,Sheikh Safi al-Din Khanegah and Shrine Ensemble,Architectural,Ardabil,Ardabil,0
+11,Shorabil Lake,Natural,Ardabil,Ardabil,0
+12,Sarein Hot Springs,Natural,Sarein,Ardabil,50000
+13,Fandoqlu Forest,Natural,Ardabil,Ardabil,0
+14,Neor Lake,Natural,Ardabil,Ardabil,0
+15,Bilasavar Nature,Natural,Bilasavar,Ardabil,0
+16,Ardabil Bazaar,Cultural,Ardabil,Ardabil,0
+17,Historical Bridges of Ardabil,Architectural,Ardabil,Ardabil,2000
+18,Moghan Plain,Natural,Bilasavar,Ardabil,0
+19,Bushehr Seafront,Natural,Bushehr,Bushehr,0
+20,Ghavam Water Reservoir,Architectural,Bushehr,Bushehr,5000
+21,French Old Cemetery,Historical,Bushehr,Bushehr,0
+22,Persian Gulf Marine Museum,Cultural,Bushehr,Bushehr,10000
+23,Shaykh Sadoon Shrine,Cultural,Bushehr,Bushehr,0
+24,Bushehr Old Bazaar,Cultural,Bushehr,Bushehr,0
+25,Rais Ali Delvari Museum,Cultural,Bushehr,Bushehr,50000
+26,Emamzadeh Abdullah Mosque,Architectural,Hamedan,Hamedan,0
+27,Dayer-Nakhiloo National Park,Natural,Dayer,Bushehr,0
+28,Zaman Khan Bridge,Architectural,Shahr-e Kord,Chaharmahal and Bakhtiari,0
+29,Choghakhor Wetland,Natural,Borujen,Chaharmahal and Bakhtiari,0
+30,Koohrang Spring,Natural,Chelgard,Chaharmahal and Bakhtiari,0
+31,Sheikh Alikhan Waterfall,Natural,Koohrang,Chaharmahal and Bakhtiari,0
+32,Sar Agha Seyed Village,Cultural,Koohrang,Chaharmahal and Bakhtiari,0
+33,Dimeh Spring,Natural,Dimeh,Chaharmahal and Bakhtiari,0
+34,Bakhtiari Historical Museum,Cultural,Shahr-e Kord,Chaharmahal and Bakhtiari,10000
+35,Lordegan Oak Forest,Natural,Lordegan,Chaharmahal and Bakhtiari,0
+36,Shahrekord Bazaar,Cultural,Shahr-e Kord,Chaharmahal and Bakhtiari,0
+37,Gandoman Wetland,Natural,Borujen,Chaharmahal and Bakhtiari,0
+38,Tabriz Historic Bazaar Complex,Cultural,Tabriz,East Azerbaijan,0
+39,Kandovan Village,Cultural,Kandovan,East Azerbaijan,0
+40,El Goli Park,Natural,Tabriz,East Azerbaijan,0
+41,Saint Stepanos Monastery,Architectural,Jolfa,East Azerbaijan,0
+42,Babak Castle,Historical,Kaleybar,East Azerbaijan,10000
+43,Constitution House of Tabriz,Cultural,Tabriz,East Azerbaijan,5000
+44,Arg of Tabriz,Historical,Tabriz,East Azerbaijan,0
+45,Qajar Museum (Amir Nezam House),Cultural,Tabriz,East Azerbaijan,15000
+46,Kabood Mosque,Architectural,Tabriz,East Azerbaijan,5000
+47,Tabriz Jameh Mosque,Architectural,Tabriz,East Azerbaijan,0
+48,Persepolis,Historical,Shiraz,Fars,50000
+49,Eram Garden,Cultural,Shiraz,Fars,50000
+50,Nasir al-Mulk Mosque,Architectural,Shiraz,Fars,5000
+51,Tomb of Hafez,Cultural,Shiraz,Fars,5000
+52,Vakil Bazaar,Cultural,Shiraz,Fars,0
+53,Arg of Karim Khan,Historical,Shiraz,Fars,50000
+54,Qavam House,Architectural,Shiraz,Fars,20000
+55,Shah Cheragh,Cultural,Shiraz,Fars,20000
+56,Pasargadae,Historical,Shiraz,Fars,50000
+57,Vakil Bath,Architectural,Shiraz,Fars,50000
+58,Sarvestan Palace,Architectural,Sarvestan,Fars,0
+59,Naqsh-e Rostam,Historical,Marvdasht,Fars,5000
+60,Afif-Abad Garden,Cultural,Shiraz,Fars,10000
+61,Margoon Waterfall,Natural,Sepidan,Fars,0
+62,Bishapur Ancient City,Historical,Kazerun,Fars,50000
+63,Golestan National Park,Natural,Gorgan,Golestan,0
+64,Gonbad-e Qabus Tower,Architectural,Gonbad-e Qabus,Golestan,5000
+65,Turkmen Sahra,Cultural,Turkmen Sahra,Golestan,0
+66,Kaboud-val Waterfall,Natural,Kaboud-val,Golestan,0
+67,Tang-e Sar Wetland,Natural,Tang-e Sar,Golestan,0
+68,Ashoora Deh,Natural,Gorgan,Golestan,0
+69,Khaled Nabi Cemetery,Cultural,Khaled Nabi,Golestan,0
+70,Loveh Waterfall,Natural,Loveh,Golestan,0
+71,Alangdareh Forest Park,Natural,Gorgan,Golestan,0
+72,Aq Qala Wetland,Natural,Aq Qala,Golestan,0
+73,Ganjnameh Inscriptions,Historical,Hamedan,Hamedan,40000
+74,Ali Sadr Cave,Natural,Hamedan,Hamedan,150000
+75,Baba Taher Tomb,Cultural,Hamedan,Hamedan,4000
+76,Hegmataneh Hill,Historical,Hamedan,Hamedan,40000
+77,Avicenna Mausoleum,Cultural,Hamedan,Hamedan,0
+78,Esther and Mordechai Tomb,Cultural,Hamedan,Hamedan,5000
+79,Ganjnameh Waterfall,Natural,Hamedan,Hamedan,0
+80,Alavian Dome,Architectural,Hamedan,Hamedan,40000
+81,Hamedan Bazaar,Cultural,Hamedan,Hamedan,0
+82,Ecbatana Ancient City,Historical,Hamedan,Hamedan,2000
+83,Hormuz Island,Natural,Hormuz,Hormuzgan,0
+84,Hara Forests,Natural,Qeshm,Hormuzgan,0
+85,Portuguese Castle,Historical,Hormuz,Hormuzgan,5000
+86,Kish Island,Cultural,Kish,Hormuzgan,80000
+87,Qeshm Island,Natural,Qeshm,Hormuzgan,70000
+88,Bandar Abbas Bazaar,Cultural,Bandar Abbas,Hormuzgan,0
+89,Hengam Island,Natural,Hengam,Hormuzgan,40000
+90,Minab Thursday Market,Cultural,Minab,Hormuzgan,0
+91,Namakdan Salt Cave,Natural,Qeshm,Hormuzgan,130000
+92,Hormozgan Coastal Park,Natural,Bandar Abbas,Hormuzgan,50000
+93,Vali Castle (Ilam),Architectural,Ilam,Ilam,4000
+94,Ilam Petroglyphs,Historical,Ilam,Ilam,5000
+95,Kul-e Farah,Historical,Izeh,Ilam,0
+96,Eye Spring (Cheshme Cheshm),Natural,Ilam,Ilam,0
+97,Darreh Shahr Ancient City,Historical,Darreh Shahr,Ilam,0
+98,Siah Gav Twin Lakes,Natural,Ilam,Ilam,0
+99,Kabir Kouh,Natural,Ilam,Ilam,0
+100,Tar Spring (Cheshme Tar),Natural,Ilam,Ilam,0
+101,Falahati Palace,Architectural,Ilam,Ilam,5000
+102,Poshtkuh Protected Area,Natural,Ilam,Ilam,0
+103,Naqsh-e Jahan Square,Historical,Isfahan,Isfahan,0
+104,Si-o-se-pol Bridge,Architectural,Isfahan,Isfahan,0
+105,Sheikh Lotfollah Mosque,Architectural,Isfahan,Isfahan,5000
+106,Ali Qapu Palace,Architectural,Isfahan,Isfahan,20000
+107,Chehel Sotoun Palace,Cultural,Isfahan,Isfahan,20000
+108,Vank Cathedral,Cultural,Isfahan,Isfahan,0
+109,Jameh Mosque of Isfahan,Historical,Isfahan,Isfahan,10000
+110,Khaju Bridge,Architectural,Isfahan,Isfahan,20000
+111,Isfahan Music Museum,Cultural,Isfahan,Isfahan,5000
+112,Menar Jonban,Architectural,Isfahan,Isfahan,20000
+113,Taq-e Bostan,Historical,Kermanshah,Kermanshah,50000
+114,Bisotun Inscription,Historical,Kermanshah,Kermanshah,50000
+115,Zagros Paleolithic Museum,Cultural,Kermanshah,Kermanshah,50000
+116,Emad o Dolah Mosque,Architectural,Kermanshah,Kermanshah,0
+117,Tekyeh Biglarbeigi,Cultural,Kermanshah,Kermanshah,0
+118,Shafei Mosque,Architectural,Kermanshah,Kermanshah,0
+119,Jameh Mosque of Kermanshah,Architectural,Kermanshah,Kermanshah,0
+120,Kermanshah Bazaar,Cultural,Kermanshah,Kermanshah,0
+121,Tagh-e Gara,Natural,Kermanshah,Kermanshah,0
+122,Sarab Niloufar Lake,Natural,Kermanshah,Kermanshah,0
+123,Bam Citadel,Historical,Bam,Kerman,150000
+124,Shazdeh Garden,Cultural,Kerman,Kerman,3000
+125,Ganjali Khan Complex,Cultural,Kerman,Kerman,50000
+126,Jabalieh Dome,Architectural,Kerman,Kerman,0
+127,Rayen Castle,Historical,Kerman,Kerman,15000
+128,Fathabad Garden,Cultural,Kerman,Kerman,5000
+129,Kerman Bazaar,Cultural,Kerman,Kerman,0
+130,Mahan Garden,Cultural,Kerman,Kerman,25000
+131,Harandi Museum,Cultural,Kerman,Kerman,30000
+132,Kaluts Shahdad Desert,Natural,Shahdad,Kerman,0
+133,Shushtar Historical Hydraulic System,Architectural,Shushtar,Khuzestan,50000
+134,Haft Tappeh,Historical,Shush,Khuzestan,0
+135,Ahvaz Bridges,Architectural,Ahvaz,Khuzestan,0
+136,Tchogha Zanbil Museum,Cultural,Shush,Khuzestan,50000
+137,Karun River,Natural,Ahvaz,Khuzestan,0
+138,Apadana Palace,Architectural,Shush,Khuzestan,30000
+139,Bazaar of Dezful,Cultural,Dezful,Khuzestan,0
+140,Susa Museum,Cultural,Shush,Khuzestan,70000
+141,Tang-e Sarvak,Historical,Yasuj,Kohgiluyeh and Boyer-Ahmad,0
+142,Yasuj Waterfall,Natural,Yasuj,Kohgiluyeh and Boyer-Ahmad,0
+143,Kakan,Cultural,Yasuj,Kohgiluyeh and Boyer-Ahmad,0
+144,Tang-e Tizab,Natural,Yasuj,Kohgiluyeh and Boyer-Ahmad,0
+145,Dena Mountain,Natural,Yasuj,Kohgiluyeh and Boyer-Ahmad,0
+146,Behbahan to Yasuj Road,Natural,Yasuj,Kohgiluyeh and Boyer-Ahmad,0
+147,Sheikh Ali Khan Waterfall,Natural,Yasuj,Kohgiluyeh and Boyer-Ahmad,0
+148,Cheshmeh Mishi,Natural,Yasuj,Kohgiluyeh and Boyer-Ahmad,0
+149,Khamyn Protected Area,Natural,Yasuj,Kohgiluyeh and Boyer-Ahmad,0
+150,Yasuj City Park,Natural,Yasuj,Kohgiluyeh and Boyer-Ahmad,0
+151,Uramanat Villages,Cultural,Uramanat,Kurdistan,0
+152,Palangan Village,Cultural,Palangan,Kurdistan,0
+153,Zarivar Lake,Natural,Marivan,Kurdistan,0
+154,Sanandaj Bazaar,Cultural,Sanandaj,Kurdistan,0
+155,Khosroabad Mansion,Architectural,Sanandaj,Kurdistan,5000
+156,Soltan Sahak Mausoleum,Historical,Paveh,Kurdistan,0
+157,Abidar Mountain,Natural,Sanandaj,Kurdistan,5000
+158,Asef Vaziri Mansion,Cultural,Sanandaj,Kurdistan,3000
+159,Qorveh Jame Mosque,Architectural,Qorveh,Kurdistan,0
+160,Falak-ol-Aflak Castle,Historical,Khorramabad,Lorestan,10000
+161,Khorramabad River Valley,Natural,Khorramabad,Lorestan,0
+162,Bisheh Waterfall,Natural,Lorestan,Lorestan,0
+163,Gahar Lake,Natural,Dorud,Lorestan,0
+164,Keeyow Lake,Natural,Aligudarz,Lorestan,0
+165,Nojian Waterfall,Natural,Oshtorinan,Lorestan,0
+166,Gerdab Sangi,Natural,Khorramabad,Lorestan,0
+167,Sarab-e Khorramabad,Natural,Khorramabad,Lorestan,0
+168,Kashkan Bridge,Architectural,Lorestan,Lorestan,0
+169,Badab-e Surt,Natural,Sari,Mazandaran,0
+170,Ramsar Palace,Architectural,Ramsar,Mazandaran,90000
+171,Namak Abrud,Amusement Park,Namak Abrud,Mazandaran,60000
+172,Miankaleh Peninsula,Natural,Behshahr,Mazandaran,0
+173,Lar Dam,Natural,Amol,Mazandaran,0
+174,Sari Bazaar,Cultural,Sari,Mazandaran,0
+175,Churat Lake,Natural,Sari,Mazandaran,0
+176,Davazdah Cheshme,Natural,Kelardasht,Mazandaran,0
+177,Filband Village,Cultural,Babol,Mazandaran,0
+178,Abr Forest,Natural,Shahrood,Semnan,0
+179,Masouleh Village,Cultural,Masouleh,Guilan,0
+180,Rudkhan Castle,Historical,Fuman,Guilan,10000
+181,Anzali Lagoon,Natural,Anzali,Guilan,20000
+182,Sefid Rud Dam,Architectural,Manjil,Guilan,0
+183,Rasht Bazaar,Cultural,Rasht,Guilan,0
+184,Lahijan Lake,Natural,Lahijan,Guilan,0
+185,Bandar Anzali Lighthouse,Architectural,Anzali,Guilan,50000
+186,Saravan Forest Park,Natural,Rasht,Guilan,10000
+187,Olives Park,Amusement Park,Qeshm,Hormuzgan,0
+188,Besh Qardash,Natural,Bojnurd,North Khorasan,0
+189,Baba Aman Park,Cultural,Bojnurd,North Khorasan,5000
+190,Jameh Mosque of Bojnurd,Architectural,Bojnurd,North Khorasan,0
+191,Mofakham Mirror House,Cultural,Bojnurd,North Khorasan,50000
+192,Arghavan Valley,Natural,Bojnurd,North Khorasan,0
+193,Belqeys Ancient City,Historical,Esfarayen,North Khorasan,0
+194,Esfarayen Tribal Park,Cultural,Esfarayen,North Khorasan,0
+195,Atrak River,Natural,Bojnurd,North Khorasan,0
+196,Faqir Dam,Architectural,Bojnurd,North Khorasan,0
+197,Qazvin Grand Bazaar,Cultural,Qazvin,Qazvin,0
+198,Alamut Castle,Historical,Qazvin,Qazvin,100000
+199,Cantor Church,Architectural,Qazvin,Qazvin,50000
+200,Aminiha Hosseiniyeh,Architectural,Qazvin,Qazvin,10000
+201,Qajar Bathhouse & Anthropology Museum,Architectural,Qazvin,Qazvin,50000
+202,Sa'd al-Saltaneh Caravanserai,Cultural,Qazvin,Qazvin,0
+203,Sepah Street,Cultural,Qazvin,Qazvin,0
+204,Jameh Mosque of Qazvin,Architectural,Qazvin,Qazvin,0
+205,Fatima Masumeh Shrine,Cultural,Qom,Qom,0
+206,Jamkaran Mosque,Cultural,Qom,Qom,0
+207,Qom Salt Lake,Natural,Qom,Qom,0
+208,Qom Bazaar,Cultural,Qom,Qom,0
+209,Astane Square,Cultural,Qom,Qom,0
+210,Green Dome,Cultural,Qom,Qom,0
+211,Jameh Mosque of Qom,Cultural,Qom,Qom,0
+212,Qom Seminary,Cultural,Qom,Qom,0
+213,Mar'ashi Najafi Library,Cultural,Qom,Qom,0
+214,Tebyan Park,Natural,Qom,Qom,50000
+215,Imam Reza Shrine,Cultural,Mashhad,Khorasan Razavi,0
+216,Ferdowsi Tomb,Cultural,Tus,Khorasan Razavi,0
+217,Nader Shah Afshar Mausoleum,Historical,Mashhad,Khorasan Razavi,30000
+218,Gonbad-e Sabz,Architectural,Mashhad,Khorasan Razavi,0
+219,Akhlamad Waterfall,Natural,Chenaran,Khorasan Razavi,0
+220,Kang Village,Cultural,Kang,Khorasan Razavi,0
+221,Robat Sharaf Caravanserai,Historical,Sabzevar,Khorasan Razavi,0
+222,Radkan Tower,Historical,Radkan,Khorasan Razavi,0
+223,Torghabeh Telecabine,Cultural,Torghabeh,Khorasan Razavi,130000
+224,Shandiz,Cultural,Shandiz,Khorasan Razavi,100000
+225,Bayazid Bastami Tomb,Cultural,Bastam,Semnan,0
+226,Shahroud Cloud Forest,Natural,Shahroud,Semnan,0
+227,Semnan Bazaar,Cultural,Semnan,Semnan,0
+228,Arg Gate,Architectural,Semnan,Semnan,0
+229,Caravanserai of Shahabasie Miandasht,Historical,Miandasht,Semnan,0
+230,Damghan Tarikhaneh Mosque,Architectural,Damghan,Semnan,15000
+231,Garmsar Salt Mines,Natural,Garmsar,Semnan,3000
+232,Badab-e Surt Springs,Natural,Sari,Mazandaran,0
+233,Anzali Tower Clock,Historical,Guilan,Guilan,0
+234,Hecatompylos Ancient Site,Historical,Shahr-e Qumis,Semnan,0
+235,Shahr-e Sukhteh,Historical,Zabol,Sistan and Baluchestan,0
+236,Taftan Volcano,Natural,Taftan,Sistan and Baluchestan,0
+237,Darak Beach,Natural,Darak,Sistan and Baluchestan,0
+238,Mud Volcanoes of Baluchistan,Natural,Baluchistan,Sistan and Baluchestan,0
+239,Martian Mountains (Kuh-e Merikhi),Natural,Chabahar,Sistan and Baluchestan,0
+240,The Castle of Nani,Historical,Nani,Sistan and Baluchestan,0
+241,Hamun Lake,Natural,Sistan,Sistan and Baluchestan,0
+242,Mount Khajeh,Historical,Zabol,Sistan and Baluchestan,0
+243,Bamposht Caves,Natural,Bamposht,Sistan and Baluchestan,0
+244,Zabol Windmills,Architectural,Zabol,Sistan and Baluchestan,0
+245,Kal Jenni Canyon,Natural,Tabas,Khorasan South,0
+246,Birjand Castle,Architectural,Birjand,Khorasan South,0
+247,Akhangan Tower,Architectural,Birjand,Khorasan South,0
+248,Rageh Canyon,Natural,Rafsanjan,Kerman,0
+249,Shokat Abad Garden,Cultural,Birjand,Khorasan South,0
+250,Nehbandan Citadel,Historical,Nehbandan,Khorasan South,50000
+251,Makhunik Village,Cultural,Makhunik,Khorasan South,0
+252,Dehmolla Waterfall,Natural,Birjand,Khorasan South,0
+253,Tabas Castle,Historical,Tabas,Khorasan South,10000
+254,Nayband National Park,Natural,Nayband,Khorasan South,0
+255,Tabriz Museum of Natural History,Natural,Tabriz,East Azerbaijan,40000
+256,Saint Mary Church,Cultural,Tabriz,East Azerbaijan,0
+257,Behnam House (School of Architecture),Architectural,Tabriz,East Azerbaijan,30000
+258,Golestan Palace,Architectural,Tehran,Tehran,50000
+259,Milad Tower,Architectural,Tehran,Tehran,90000
+260,National Jewelry Museum,Cultural,Tehran,Tehran,100000
+261,Tabiat Bridge,Architectural,Tehran,Tehran,0
+262,Darband,Natural,Tehran,Tehran,0
+263,Tehran Grand Bazaar,Cultural,Tehran,Tehran,0
+264,Sa'dabad Complex,Historical,Tehran,Tehran,100000
+265,Niavaran Palace,Historical,Tehran,Tehran,70000
+266,Tehran Museum of Contemporary Art,Cultural,Tehran,Tehran,50000
+267,Azadi Tower,Architectural,Tehran,Tehran,0
+268,Chalous Road,Natural,Karaj,Alborz,0
+269,Amir Kabir Dam,Architectural,Karaj,Alborz,0
+270,Kordan Village,Cultural,Karaj,Alborz,0
+271,Alborz Zipline,Amusement Park,Karaj,Alborz,150000
+272,Hasanabad Mountain,Natural,Karaj,Alborz,0
+273,Oushan Fasham,Natural,Tehran,Tehran,0
+274,Masjed Jame Karaj,Architectural,Karaj,Alborz,0
+275,Aghasht Castle,Historical,Karaj,Alborz,0
+276,Taleghan Valley,Natural,Taleghan,Alborz,0
+277,Urmia Lake,Natural,Urmia,West Azerbaijan,0
+278,Takht-e Soleiman,Historical,Takab,West Azerbaijan,5000
+279,Karaftu Cave,Natural,Karaftu,West Azerbaijan,50000
+280,Qareh Kalisa (Black Church),Architectural,Chaldoran,West Azerbaijan,5000
+281,Maku Free Zone,Cultural,Maku,West Azerbaijan,0
+282,Rab'-e Rashidi,Historical,Tabriz,East Azerbaijan,0
+283,Orumiyeh Bazaar,Cultural,Urmia,West Azerbaijan,0
+284,Seyyed Sharafeddin Ashraf Mausoleum,Architectural,Khoy,West Azerbaijan,0
+285,Bastam Castle,Historical,Bastam,West Azerbaijan,0
+286,Amir Chakhmaq Complex,Cultural,Yazd,Yazd,15000
+287,Zoroastrian Fire Temple,Cultural,Yazd,Yazd,5000
+288,Dowlat Abad Garden,Cultural,Yazd,Yazd,20000
+289,Yazd Jameh Mosque,Architectural,Yazd,Yazd,20000
+290,The Towers of Silence,Historical,Yazd,Yazd,3000
+291,Yazd Old City,Cultural,Yazd,Yazd,0
+292,Water Museum,Architectural,Yazd,Yazd,15000
+293,Alexander's Prison,Historical,Yazd,Yazd,30000
+294,Kharanaq Village,Cultural,Yazd,Yazd,0
+295,Rakhtshoy khaneh Museum,Cultural,Zanjan,Zanjan,3000
+296,Soltaniyeh Dome,Architectural,Soltaniyeh,Zanjan,5000
+297,Behestan Castle,Historical,Zanjan,Zanjan,0
+298,Gavazang Amusement Park,Amusement Park,Zanjan,Zanjan,0
+299,Katale Khor Cave,Natural,Zanjan,Zanjan,30000
+300,Dashkasan Temple,Architectural,Zanjan,Zanjan,50000
+301,Zanjan Bazaar,Cultural,Zanjan,Zanjan,0
+302,Saltmen Museum,Cultural,Zanjan,Zanjan,30000
+303,Zanjan Jameh Mosque,Architectural,Zanjan,Zanjan,0
+304,Masuleh Village,Cultural,Rasht,Guilan,100000
+305,Qasem Abad Forest,Natural,Rasht,Guilan,0
+306,Lahijan Tea Fields,Cultural,Lahijan,Guilan,0
+307,Gilan Rural Heritage Museum,Cultural,Rasht,Guilan,100000
+308,Roudkhan Spring,Natural,Fuman,Guilan,0
+309,Sisangan Forest Park,Natural,Talesh,Guilan,0
