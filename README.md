@@ -70,7 +70,7 @@ eprint = {https://jdscm.atu.ac.ir/article_18731_7b04b80c1b55eacc2a67481dc7df8a4a
 ```
 
 ## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE.md) for details.
 
 ## Contact
 For questions or collaborations, contact:  
@@ -80,4 +80,4 @@ For questions or collaborations, contact:
 
 ---
 
-**Explore Iran's hidden gems with AI-powered recommendations!** 🇮🇷
+**Explore Iran's hidden gems with AI-powered recommendations!**
