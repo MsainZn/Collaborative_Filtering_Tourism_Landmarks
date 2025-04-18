@@ -47,8 +47,6 @@ The dataset comprises three CSV files stored in the [`/dataset`](https://github.
 - **Cold-Start Mitigation**: Feature embeddings improved test recall by 17%.
 - **Pre-training Impact**: Hybrid model with pre-trained components converged 30% faster.
 
-![Model Performance Comparison](Images/fig19.png)
-
 ## Citation
 If you use this work, please cite:
 ```bibtex
