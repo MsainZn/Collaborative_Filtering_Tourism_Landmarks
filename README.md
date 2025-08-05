@@ -51,7 +51,7 @@ The dataset comprises three CSV files stored in the [`/dataset`](https://github.
 If you use this work, please cite:
 ```bibtex
 @article {
-author = {Zolfagharnasab, Mohammad Hossein and PourMohammadBagher, Latifeh and Bahrani, Mohammad},
+author = {Mohammad Hossein Zolfagharnasab, Latifeh PourMohammadBagher, and Mohammad Bahrani},
 title = {Intelligent Travel Recommendations Using Neural Collaborative Filtering for Touristic Landmarks of Iran},
 journal = {Journal of Data Science and Modeling},
 volume = {},
